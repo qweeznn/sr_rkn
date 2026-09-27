@@ -1,0 +1,62 @@
+# Google DeepMind (Gemini)
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# Google DeepMind - Google Generative Language API
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+
+# Google DeepMind - Google AI Studio
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+
+# Google DeepMind - Gemini Code Assist
+DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com
+
+# Google DeepMind - NotebookLM
+DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
+DOMAIN-SUFFIX,notebooklm.googleapis.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+
+# Google DeepMind - Jules
+DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,jules.google.com
+
+# Google DeepMind - Google AI Labs
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+
+# Google DeepMind - Android Studio Gemini Code Assist
+DOMAIN-SUFFIX,aida.googleapis.com
+
+# Google DeepMind - Opal
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
+
+# Google DeepMind - Antigravity
+DOMAIN-SUFFIX,antigravity-pa.googleapis.com
+DOMAIN-SUFFIX,antigravity.googleapis.com
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity-unleash.goog
+
+# Google DeepMind - Other
+DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,aitestkitchen.withgoogle.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,assistant-s3-pa.googleapis.com
+DOMAIN-SUFFIX,developerprofiles-pa.googleapis.com
+DOMAIN-SUFFIX,lookerstudio.google.com
+DOMAIN-SUFFIX,o.pki.goog
+DOMAIN-SUFFIX,suggestqueries.google.com

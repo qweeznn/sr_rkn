@@ -1,0 +1,28 @@
+# Aruba router
+DOMAIN,instant.arubanetworks.com
+DOMAIN,setmeup.arubanetworks.com
+
+# ASUS router
+# Reference: https://www.asus.com/support/FAQ/1005263/
+DOMAIN,asusrouter.com
+DOMAIN,router.asus.com
+DOMAIN,www.asusrouter.com
+
+# H3C
+# https://wwwsg.h3c.com/cn/d_202007/1316557_30005_0.htm#_Toc46214911
+DOMAIN,oasisauth.h3c.com
+
+# Netgear router
+# Reference: https://kb.netgear.com/27199/I-can-t-access-my-router-what-do-I-do
+# https://www.netgear.com/business/services/aplogincom/
+DOMAIN,routerlogin.com
+DOMAIN,www.routerlogin.com
+
+# TP-Link router
+# Reference: https://resource.tp-link.com.cn/m/productClass/product_document?id=1655112502304621
+DOMAIN,tplogin.cn
+
+# Xiaomi router
+# Reference: https://www1.miwifi.com/miwifi_faq.html
+DOMAIN,miwifi.com
+DOMAIN,www.miwifi.com
