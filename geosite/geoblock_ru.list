@@ -337,6 +337,9 @@ DOMAIN-SUFFIX,spotify.map.fastlylb.net
 # Strava
 DOMAIN-KEYWORD,strava.com
 
+# Shikimori
+DOMAIN-KEYWORD,shikimori.io
+
 # Tableau
 DOMAIN-KEYWORD,tableau.com
 
